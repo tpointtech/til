@@ -2915,7 +2915,7 @@ import com.amazonaws.services.s3.AmazonS3URI;
     - https://dzone.com/articles/java-memory-management
     - https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html
     - https://www.geeksforgeeks.org/java-memory-management/
-    - https://www.javatpoint.com/memory-management-in-java
+    - https://www.tpointtech.com/memory-management-in-java
 
 ### 20220105
 - Spark
@@ -3872,7 +3872,7 @@ orc_data.createOrReplaceTempView("orc_table")
 - Hadoop
   - [NS2](https://hadoop.apache.org/docs/r2.7.0/hadoop-project-dist/hadoop-hdfs/HDFSHighAvailabilityWithQJM.html)
 - Java
-  - [Stack](https://www.javatpoint.com/java-stack)
+  - [Stack](https://www.tpointtech.com/java-stack)
 
 ### 20210112
 - Scala
